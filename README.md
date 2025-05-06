@@ -1,3 +1,4 @@
+[App Link:](https://loneeligibilitypredictor-unqjj5mqgnvhwv43khvsjz.streamlit.app/)
 # 🏦 Loan Eligibility Predictor
 
 A **Streamlit-based machine learning web app** that predicts loan approval status based on user input. This app uses both **Logistic Regression** and **Random Forest** models trained on cleaned and encoded loan application data.
